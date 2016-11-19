@@ -1,3 +1,4 @@
 gogo£¡
 tracks changes of file 
 hello world gogo
+My stupid boss still prefers SVN.
