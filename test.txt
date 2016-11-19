@@ -1,2 +1,3 @@
 gogo£¡
-tracks changes
+tracks changes of file 
+hello world gogo
